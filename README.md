@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/androque">
-  <img  align="center" height="55%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img  align="right" height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="center" height="55%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=algolia"/>
 </div>
     
   <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="And-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="right"  alt="And-magi" height="20%" width="20%" src="https://c.tenor.com/5SEVHTTzA-sAAAAC/magi-aladdin.gif">
+  <img style="border-radius: 10px" align="right"  alt="And-magi" height="20%" width="20%" src="https://c.tenor.com/5SEVHTTzA-sAAAAC/magi-aladdin.gif">
 </div>
   
   ##
