@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/androque">
-  <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="55%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
