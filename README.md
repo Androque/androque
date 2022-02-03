@@ -15,7 +15,7 @@
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="And-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center"  alt="And-magi" height="20%" width="20%" src="https://c.tenor.com/5SEVHTTzA-sAAAAC/magi-aladdin.gif">
+  <img margin-left="30%" align="center"  alt="And-magi" height="20%" width="20%" src="https://c.tenor.com/5SEVHTTzA-sAAAAC/magi-aladdin.gif">
 </div>
   
   ##
