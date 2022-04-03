@@ -1,4 +1,11 @@
-## Olá, eu sou o Anderson Roque!
+<h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h2> Meu nome é Anderson Roque, mas todos me chamam de And!</h2>
+
+👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
+🎒 Estudante de Big Data pela IBMR.<br>
+🎯 Objetivo: Atualmente procurando uma oportunidade para continuar evoluindo.<br>
+📰 Aprendendo por fora: Java, Spring, ReactJS e Golang.<br>
+💜 Tenho conhecimento em HTML5, CSS, JavaScript, Bootstrap, Go, C#, .Net, Java, React, SQLserver, MongoDB.<br>
 
 <div>
   <a href="https://github.com/androque">
