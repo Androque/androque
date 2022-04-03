@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/androque">
-  <img align="center" height="55%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="55%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="center" height="50%" width="45%" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="50%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=algolia"/>
 </div>
     
   <div style="display: inline_block"><br>
