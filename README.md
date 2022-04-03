@@ -8,9 +8,9 @@
 💜 Tenho conhecimento em HTML5, CSS, JavaScript, Bootstrap, Go, C#, .Net, Java, React, SQLserver, MongoDB.<br>
 
 <div align="center">
-  <a href="https://github.com/jspansini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jspansini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jspansini&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/androque">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=androque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androque&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
   <div style="display: inline_block"><br>
