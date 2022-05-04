@@ -3,7 +3,7 @@
 
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
 🎒 Estudante de Big Data pela IBMR.<br>
-🎯 Objetivo: Atualmente procurando uma oportunidade para continuar evoluindo.<br>
+🎯 Objetivo: Me tornar especialista em desenvolvimento.<br>
 📰 Aprendendo por fora: Java, Spring, ReactJS e Golang.<br>
 💜 Tenho conhecimento em HTML5, CSS, JavaScript, Bootstrap, Go, C#, .Net, Java, React, React Native, SQLserver, MySQL, MongoDB.<br>
 
