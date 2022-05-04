@@ -5,7 +5,7 @@
 🎒 Estudante de Big Data pela IBMR.<br>
 🎯 Objetivo: Me tornar especialista em desenvolvimento.<br>
 📰 Aprendendo por fora: Java, Spring, ReactJS e Golang.<br>
-💜 Tenho conhecimento em HTML5, CSS, JavaScript, Bootstrap, Go, C#, .Net, Java, React, React Native, SQLserver, MySQL, MongoDB.<br>
+💜 Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
 
 <div align="center">
   <a href="https://github.com/androque">
