@@ -6,6 +6,8 @@
 🎯 Objetivo: Me tornar especialista em desenvolvimento.<br>
 📰 Aprendendo por fora: TypeScript, AngularJS e VueJS.<br>
 💜 Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
+💜 Softskills que se destacam: Comunicação, trabalho em equipe, empatia, foco e determinação.<br>
+
 
 <div align="center">
   <a href="https://github.com/androque">
