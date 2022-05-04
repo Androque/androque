@@ -2,7 +2,7 @@
 <h2> Meu nome é Anderson Roque, mas todos me chamam de And!</h2>
 
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
-🎒 Estudante de Big Data pela IBMR.<br>
+🎒  Fullstack Developer - RecodePro 2021 / Big Data & Inteligência Analítica - 2º Período - IBMR.<br>
 🎯 Objetivo: Me tornar especialista em desenvolvimento.<br>
 📰 Aprendendo por fora: Java, Spring, ReactJS e Golang.<br>
 💜 Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
