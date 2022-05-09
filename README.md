@@ -1,12 +1,11 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> Meu nome é Anderson Roque, mas todos me chamam de And!</h2>
 
-👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
-🎒 Big Data & Inteligência Analítica - 2º Período - IBMR.<br>
-🎯 Objetivo: Me tornar especialista em desenvolvimento.<br>
-📰 Aprendendo por fora: TypeScript, AngularJS e VueJS.<br>
+🎓 Fullstack Developer - RecodePro 2021.<br>
+💾 Big Data & Inteligência Analítica - 2º Período - IBMR.<br>
+📝 Aprendendo por fora: TypeScript, AngularJS e VueJS.<br>
 🖥️ Tenho conhecimento em HTML5/CSS, JavaScript, TypeScript, ReactJS, React Native, SQLserver, MySQL, MongoDB.<br>
-💜 Softskills que se destacam: Comunicação, trabalho em equipe, empatia, foco e determinação.<br>
+💻 Softskills que se destacam: Comunicação, trabalho em equipe, empatia, foco e determinação.<br>
 
 
 <div align="center">
